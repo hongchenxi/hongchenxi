@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js & React.js & Vue.js & TypeScript**
 
-- 📫 How to reach me [email](hongchenxi86@gmail.com**)
+- 📫 How to reach me 📮 [email](hongchenxi86@gmail.com**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/hcx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hcx" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
   </a>
